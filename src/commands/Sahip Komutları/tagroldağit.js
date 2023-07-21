@@ -1,3 +1,4 @@
+const { ApplicationCommandOptionType,PermissionsBitField,EmbedBuilder } = require("discord.js");
 const conf = require("../../../config")
 
 module.exports = {
