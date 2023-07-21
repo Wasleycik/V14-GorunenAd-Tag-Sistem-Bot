@@ -1,4 +1,4 @@
-const {PermissionFlagsBits} = require("discord.js");
+const {PermissionsBitField} = require("discord.js");
 const config = require("../../../config")
 const client = global.client;
 const db = client.db;
@@ -12,9 +12,9 @@ module.exports = {
             return    
         }
 
-    let commandsFive = client.commands.filter(bes => bes.usage).map((fivesobes) => `> \`${config.prefix}${fivesobes.usage}\``).join("\n");
+    let komutlarr = client.commands.filter(t => t.usage).map((cmd) => `> \`${config.prefix}${cmd.usage}\``).join("\n");
 
-     message.reply({ embeds: [embed.setDescription(`${commandsFive}`).setThumbnail(message.guild.iconURL({dynamic:true})).setTitle(`Yardım Menüsü`).setURL(`https://linktr.ee/beykant`)] });
+     message.reply({ embeds: [embed.setAuthor({ name: `Yardım Menüsü`,iconURL: message.guild.iconURL({ dynamic: true }) }).setDescription(`${komutlarr}`)] });
 
     }
 }
