@@ -1,6 +1,6 @@
 ## V14 Görünen Ad Tag Sistemi
 
-* Destek [Sunucusu](https://discord.gg/HehFQ7Qcub)
+* Destek Sunucumuz [Sunucusu](https://discord.gg/HehFQ7Qcub)
 
 # Kurulum
 Config.Js DosyasıNI Doldurmanız Yeterli Olacaktır
