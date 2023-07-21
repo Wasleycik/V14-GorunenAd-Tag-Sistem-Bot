@@ -1,4 +1,4 @@
-const {PermissionFlagsBits} = require("discord.js");
+const {PermissionsBitField} = require("discord.js");
 const config = require("../../../config")
 const client = global.client;
 const db = client.db;
