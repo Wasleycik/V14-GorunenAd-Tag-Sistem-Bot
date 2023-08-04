@@ -4,7 +4,7 @@
   "description": "v14 advenced tag sistemi",
   "main": "index.js",
   "scripts": {
-    "start": "node beş.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "16.x"
