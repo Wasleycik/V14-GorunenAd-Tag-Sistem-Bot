@@ -1,7 +1,7 @@
 {
-  "name": "five-discord-v14-advanced-register",
+  "name": "görünen ad tag sistem",
   "version": "1.0.0",
-  "description": "Beş v14 Advanced Register / Kayıt Botu",
+  "description": "v14 advenced tag sistemi",
   "main": "index.js",
   "scripts": {
     "start": "node beş.js"
@@ -9,8 +9,6 @@
   "engines": {
     "node": "16.x"
   },
-  "author": "Beş",
-  "license": "GPL-3.0",
   "dependencies": {
     "@discordjs/formatters": "^0.2.0",
     "@discordjs/voice": "^0.15.0",
