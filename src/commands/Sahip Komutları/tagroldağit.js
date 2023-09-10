@@ -12,7 +12,7 @@ module.exports = {
             return    
         }
         let tag = conf.tag;
-        let tagrol = conf.ekiprol;
+        let tagrol = conf.taglirolü;
 
 let taglılar = message.guild.members.cache.filter(s => s.user.displayName.includes(tag) && !s.roles.cache.has(tagrol))
 let tagsızlar = message.guild.members.cache.filter(s => !s.user.displayName.includes(tag) && s.roles.cache.has(tagrol))
