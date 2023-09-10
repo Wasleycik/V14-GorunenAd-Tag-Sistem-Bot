@@ -9,7 +9,7 @@ module.exports = async (oldU,newU) => {
     const oldMember = oldU.displayName
     const guild = client.guilds.cache.get(config.sunucuid);
     const member = guild.members.cache.get(oldU.id);
-    const tagLog = await guild.channels.cache.get(isimcek.taglog || config.taglog);
+    const tagLog = await guild.channels.cache.get(config.taglog);
     if ((newMember === oldMember) || oldMember.bot || newMember.bot) return;
     if (!guild || !member || !tagLog) return;
     const taglirol = config.taglirolü;
