@@ -6,9 +6,10 @@ botOwners:["928259219038302258"], //Bot Sahibinin ID'si
 botDurum:"Hesperos ❤️ Wasley", //Botun Durumu
 footer:"Wasley", //Embedların Footer Yazısı
 botseskanal:"1131932669165441086", // Bot Ses Kanal
+sunucuid: "",
 
-ekiprol:"1129897418431942666", // Taglı Kullanıcılara Verilecek Rol ID'si
+taglirolü:"1129897418431942666", // Taglı Kullanıcılara Verilecek Rol ID'si
 tag:"✦", //Sunucu Tagı
-othtag:"✧", //Tagsız Kullanıcı Tagı
+tagsiztag:"✧", //Tagsız Kullanıcı Tagı
 taglog:"903287355790745681", //Tag Log Kanal ID'si
 }
