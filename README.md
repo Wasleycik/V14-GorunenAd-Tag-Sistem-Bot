@@ -2,6 +2,7 @@
 
 ---
 
+### Hatalar Ve Destek İçin;
 * Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
 
 
