@@ -5,12 +5,12 @@
 ### Hatalar Ve Destek İçin;
 `-` Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
 
-### Kurulum
+### Bilgilendirme Ve Kurulum;
 `-` config.json Sunucunuza Göre Düzenlemeniz Yeterli Olacaktır.
 
 `-` Altyapının Boş Hali Beş e ait boş altyapıyı almak isterseniz içerisindeki herşeyi silin 1 komut bırakın ve gerekli eventsleri silmeyin commandhandler gibi
 
-## Bota Dair Bazı Görseller
+## Bota Dair Bazı Görseller;
 <details><summary>Görmek İçin Tıkla</summary>
 
 ### Tag Alır İse
