@@ -12,10 +12,10 @@
 <details><summary>Görmek İçin Tıkla</summary>
 
 ### Tag Alır İse
-![image](https://github.com/Wasleycik/V14-GorunenAd-Tag-Sistem-Bot/assets/104096743/c21a9042-0dae-43f6-bd9c-98c50b38c529)
+![image](https://github.com/Wasleycik/V14-GorunenAd-Tag-Sistem-Bot/assets/104096743/9f2c50d4-67bc-4158-9906-5cbeb7af41d9)
 
 ### Tag Salar İse
-![image](https://github.com/Wasleycik/V14-GorunenAd-Tag-Sistem-Bot/assets/104096743/b0cea6e5-58f6-49d0-b4b6-7a140f0f34cb)
+![image](https://github.com/Wasleycik/V14-GorunenAd-Tag-Sistem-Bot/assets/104096743/5a1a53fb-e858-45d1-91c1-ff5f4196946a)
 </details>
 
 
