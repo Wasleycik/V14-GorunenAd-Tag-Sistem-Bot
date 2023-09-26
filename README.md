@@ -3,8 +3,7 @@
 ---
 
 ### Hatalar Ve Destek İçin;
-* Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
-
+`-` Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
 
 ### Kurulum
 `-` config.json Sunucunuza Göre Düzenlemeniz Yeterli Olacaktır.
