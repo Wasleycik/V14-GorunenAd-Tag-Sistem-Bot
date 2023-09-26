@@ -85,7 +85,7 @@ if (this) this.then(s => {
   };
 
 
-client.login(conf.token).then(() => 
+client.login(conf.token || process.env.token).then(() => 
 console.log(`🟢 ${client.user.tag} Başarıyla Giriş Yaptı!`)
 ).catch((err) => console.log(`🔴 Bot Giriş Yapamadı / Sebep: ${err}`));
 
