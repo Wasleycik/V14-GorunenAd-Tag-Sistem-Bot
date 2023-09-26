@@ -7,6 +7,7 @@
 
 ### Kurulum
 `-` config.json Sunucunuza Göre Düzenlemeniz Yeterli Olacaktır.
+
 `-` Altyapının Boş Hali Beş e ait boş altyapıyı almak isterseniz içerisindeki herşeyi silin 1 komut bırakın ve gerekli eventsleri silmeyin commandhandler gibi
 
 ## Bota Dair Bazı Görseller
