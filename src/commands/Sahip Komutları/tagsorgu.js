@@ -13,8 +13,8 @@ module.exports = {
         }
         const tags = args.slice(0).join(" ")
         if(!tags) return message.reply("Bir Tag Belirt!")
-        const sonuc = message.guild.members.cache.filter(t => t.user.displayName.includes(cst)).size
-        const sonuc2 = message.guild.members.cache.filter(t => t.user.displayName.includes(cst)).map(t => t).join('--')
+        const sonuc = message.guild.members.cache.filter(t => t.user.displayName.includes(tags)).size
+        const sonuc2 = message.guild.members.cache.filter(t => t.user.displayName.includes(tags)).map(t => t).join('--')
         
         message.reply("Belirtilen Taga Sahip Bu Sunucuda `"+sonuc+"` Kişi Var!")
          message.channel.send(`**Tagdaki Üyeler** ; \n${sonuc2 || "Kimse yok"}`)  
